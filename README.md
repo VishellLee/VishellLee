@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VishellLee
-- 👀 I’m interested in Linux C++
-- 🌱 I’m currently learning Linux C++
+- 👀 我是一名 Linux 服务器端 C++ 应用开发工程师
 
 <!---
 VishellLee/VishellLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
